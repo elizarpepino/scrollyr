@@ -1,4 +1,3 @@
-scrollyr
-========
+# Scrollyr
 
-scroller utils in vanilla js
+pimp your scrollbar with `Scrollyr`
